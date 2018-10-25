@@ -1,0 +1,10 @@
+sudo apt-add-repository ppa:numix/ppa
+sudo apt-add-repository ppa:apt-fast/stable
+sudo apt-add-repository ppa:neovim-ppa/stable
+sudo apt-add-repository ppa:rvm/smplayer
+sudo apt-add-repository ppa:jonathonf/vim
+sudo apt-add-repository ppa:tista/adapta
+sudo apt-add-repository ppa:budgie-remix/ppa
+sudo apt-add-repository ppa:noobslab/themes
+sudo apt-add-repository ppa:klaus-vormweg/awesome
+sudo apt-add-repository ppa:papirus/papirus
