@@ -1,0 +1,28 @@
+{"key":"deleteTmpOnClose","value":false,"_id":"4wFSTwrfz0JKrFgC"}
+{"key":"totalUploaded","value":857149098,"_id":"6kglWngevcHj5GuW"}
+{"key":"shows_default_quality","value":"480p","_id":"6wK6rUAVTg0GVDLE"}
+{"key":"chosenPlayer","value":"SMPlayer","_id":"CVpaLyvnf5Q9Kcab"}
+{"key":"movies_default_quality","value":"720p","_id":"H29jba4hd6STCirv"}
+{"key":"arch","value":"x64","_id":"QhQW5524JstN0lY2"}
+{"key":"ipAddress","value":"192.168.0.104","_id":"iY8s6UuWVqtl8HxI"}
+{"key":"showAdvancedSettings","value":true,"_id":"iseopHhAdX30jygb"}
+{"key":"disclaimerAccepted","value":1,"_id":"oL57ZJrnB35i0YsO"}
+{"key":"language","value":"en","_id":"oxQflhpsLJdVMhBM"}
+{"key":"totalDownloaded","value":18889950675,"_id":"q9ACNLr9Woe6f53P"}
+{"key":"filters","value":{"shows":{"sorter":"trending","genre":"","order":-1},"movies":{"sorter":"popularity","genre":"","order":-1}},"_id":"rv0ft04Z1I8VmT88"}
+{"key":"tmpLocation","value":"/home/vishnu/Videos/Popcorn Time","_id":"w0jszPQvRg9DJ7Fn"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"wimIr2k5lDVmLRdY"}
+{"key":"os","value":"linux","_id":"zF8I7e4hTV497lK6"}
+{"key":"version","value":"0.3.10","_id":"zkt0kANxt0GCUzqj"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.10","_id":"zkt0kANxt0GCUzqj"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"wimIr2k5lDVmLRdY"}
+{"key":"arch","value":"x64","_id":"QhQW5524JstN0lY2"}
+{"key":"os","value":"linux","_id":"zF8I7e4hTV497lK6"}
+{"key":"filters","value":{"shows":{"sorter":"trending","genre":"","order":-1},"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"rv0ft04Z1I8VmT88"}
+{"key":"filters","value":{"shows":{"sorter":"trending","genre":"","order":-1},"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"rv0ft04Z1I8VmT88"}
+{"key":"filters","value":{"shows":{"sorter":"trending","genre":"","order":-1},"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"rv0ft04Z1I8VmT88"}
+{"key":"totalDownloaded","value":19004985837,"_id":"q9ACNLr9Woe6f53P"}
+{"key":"totalUploaded","value":857149098,"_id":"6kglWngevcHj5GuW"}
+{"key":"totalDownloaded","value":19678748167,"_id":"q9ACNLr9Woe6f53P"}
+{"key":"totalUploaded","value":860180138,"_id":"6kglWngevcHj5GuW"}

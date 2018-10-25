@@ -1,0 +1,17 @@
+open_with rxvt
+./
+./Popcorn-Time
+rename gruvbox
+search .Xde
+open_with vim
+search .con
+open_with 0
+search ami
+search AMI
+search MDM
+open_with 1
+open_with wps
+
+open_with et
+open_with 
+cp 

@@ -1,0 +1,208 @@
+{
+   "checksum": "1ad5eddc0e0ba87ea2867f6a85cc1ba7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13171140211239528",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13171140211411815",
+                  "id": "9",
+                  "meta_info": {
+                     "guid": "ee7ea1f7-292b-43d2-9d04-fe917e968e46",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "imageDataType": "2",
+                     "imageID": "B90AB9E80FDD4C95038EBDFE11BC7C7C532FD38CD3816EA666EDAC5D8CECFBFF",
+                     "imageType": "2",
+                     "last_visited_desktop": "13175977527539349",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "partner_url": "http://www.facebook.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/facebook",
+                     "revision": "20171003",
+                     "server_position": "1"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13171140211412164",
+                  "id": "10",
+                  "meta_info": {
+                     "guid": "4c1bc974-a3a4-4a12-aa4b-6f3b44f66cf9",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/749fe0d65b0e8ea2c309890cce1ffc47f1d22119.png",
+                     "imageDataType": "2",
+                     "imageID": "697A4A1FF1EB499B2525D26E12A1871E1938A03BFF0E4B5E3DD6C40D286F1299",
+                     "imageType": "2",
+                     "partner_id": "flipkart",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/749fe0d65b0e8ea2c309890cce1ffc47f1d22119.png",
+                     "partner_url": "http://www.flipkart.com/?affid=partnershi1",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/flipkart",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "Flipkart",
+                  "type": "url",
+                  "url": "http://www.flipkart.com/"
+               }, {
+                  "date_added": "13171140211412382",
+                  "id": "11",
+                  "meta_info": {
+                     "guid": "88c28a83-1104-4815-b314-8a43e568395f",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/b160bca195e0f26192bee6a4b7c70b77f4eb88f8.png",
+                     "imageDataType": "2",
+                     "imageID": "60D20DF1785A36E17F4D8D31E1CF31463A8D45A595C9954D1148A7A3A3F4623A",
+                     "imageType": "2",
+                     "partner_id": "jabong_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/b160bca195e0f26192bee6a4b7c70b77f4eb88f8.png",
+                     "partner_url": "http://tracking.payoom.com/aff_c?offer_id=62&aff_id=27986&source=OD-SD-India",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/jabong_com",
+                     "revision": "20171003",
+                     "server_position": "3"
+                  },
+                  "name": "Jabong.com",
+                  "type": "url",
+                  "url": "http://www.jabong.com/"
+               }, {
+                  "date_added": "13171140211414697",
+                  "id": "12",
+                  "meta_info": {
+                     "guid": "60132365-6021-431d-bcbe-39236218e8da",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/28320372d29a2aa845b1ef548d3db32e53e2581b.png",
+                     "imageDataType": "2",
+                     "imageID": "76F7BE448D440522392C97682A9DB6A3ACFE9C1AA3B0051F00231645F15D6977",
+                     "imageType": "2",
+                     "partner_id": "agoda_com_in",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/28320372d29a2aa845b1ef548d3db32e53e2581b.png",
+                     "partner_url": "http://www.agoda.com/?cid=1753807",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/agoda_com_in",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "Agoda.com",
+                  "type": "url",
+                  "url": "http://www.agoda.com/"
+               }, {
+                  "date_added": "13171140211414923",
+                  "id": "13",
+                  "meta_info": {
+                     "guid": "26cc8810-b819-4416-8fb8-3014baf1e610",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/e1a8404faf4c34a3abd56600957baca84bc1d66c.png",
+                     "imageDataType": "2",
+                     "imageID": "7B3467779D1BAA3FB1E340BCD38E16967A2C6646CEF20F3387F286EFE46EF310",
+                     "imageType": "2",
+                     "partner_id": "makemytrip_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/e1a8404faf4c34a3abd56600957baca84bc1d66c.png",
+                     "partner_url": "http://tracking.payoom.com/aff_c?offer_id=677&aff_id=27986&source=OD-SD-India",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/makemytrip_com",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "MakeMyTrip",
+                  "type": "url",
+                  "url": "http://makemytrip.com/"
+               }, {
+                  "date_added": "13171140211415162",
+                  "id": "14",
+                  "meta_info": {
+                     "guid": "48121e92-f4ca-462f-a400-51928f0409ac",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "imageDataType": "2",
+                     "imageID": "EF2C9F7CEE1885578697DE640325E16BFDA0A35D79805CFCC1ED5DFA88C8813E",
+                     "imageType": "2",
+                     "partner_id": "amazon_in",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "partner_url": "https://www.amazon.in/?tag=operadesktop-21",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_in",
+                     "revision": "20171003",
+                     "server_position": "6"
+                  },
+                  "name": "Amazon.in",
+                  "type": "url",
+                  "url": "http://www.amazon.in/"
+               }, {
+                  "date_added": "13171140211415390",
+                  "id": "15",
+                  "meta_info": {
+                     "guid": "effb8345-f518-4499-a8bd-862e3dac2025",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_in",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "partner_url": "https://redir.opera.com/speeddials/partner/aliexpress_com_in",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_in",
+                     "revision": "20171003",
+                     "server_position": "7"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               } ],
+               "date_added": "13171140211376432",
+               "date_modified": "13171140211415612",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "9dabadaa-5d02-45ee-a845-a2ccfc08caa9"
+               },
+               "name": "MATRIX",
+               "type": "folder"
+            } ],
+            "date_added": "13171140211376362",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13171140211376363",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Bin",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13171140211376360",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13171140211376361",
+            "date_modified": "13171142500587878",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13171140211239535",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13171140211239537",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

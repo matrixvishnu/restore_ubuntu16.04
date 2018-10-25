@@ -1,0 +1,29 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-desktop-icon-size=64
+nautilus-icon-view-layout-timestamp=1531334417
+
+[home]
+nautilus-icon-position=40,14
+icon-scale=1
+nautilus-icon-position-timestamp=1531334417
+
+[trash]
+nautilus-icon-position=40,514
+icon-scale=1
+nautilus-icon-position-timestamp=1531334417
+
+[network]
+nautilus-icon-position=40,654
+icon-scale=1
+nautilus-icon-position-timestamp=1529683040
+
+[New Volume.volume]
+nautilus-icon-position=40,654
+icon-scale=1
+nautilus-icon-position-timestamp=1530677937
+
+[New Volume.volume.2]
+nautilus-icon-position=40,794
+icon-scale=1
+nautilus-icon-position-timestamp=1530294765
